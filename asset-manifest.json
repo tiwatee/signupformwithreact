@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/signupformwithreact/static/css/main.8028aef6.chunk.css",
+    "main.js": "/signupformwithreact/static/js/main.a8327a10.chunk.js",
+    "main.js.map": "/signupformwithreact/static/js/main.a8327a10.chunk.js.map",
+    "runtime-main.js": "/signupformwithreact/static/js/runtime-main.cb3f61b6.js",
+    "runtime-main.js.map": "/signupformwithreact/static/js/runtime-main.cb3f61b6.js.map",
+    "static/js/2.77cce8b4.chunk.js": "/signupformwithreact/static/js/2.77cce8b4.chunk.js",
+    "static/js/2.77cce8b4.chunk.js.map": "/signupformwithreact/static/js/2.77cce8b4.chunk.js.map",
+    "static/js/3.776a3e44.chunk.js": "/signupformwithreact/static/js/3.776a3e44.chunk.js",
+    "static/js/3.776a3e44.chunk.js.map": "/signupformwithreact/static/js/3.776a3e44.chunk.js.map",
+    "index.html": "/signupformwithreact/index.html",
+    "static/css/main.8028aef6.chunk.css.map": "/signupformwithreact/static/css/main.8028aef6.chunk.css.map",
+    "static/js/2.77cce8b4.chunk.js.LICENSE.txt": "/signupformwithreact/static/js/2.77cce8b4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/signupformwithreact/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb3f61b6.js",
+    "static/js/2.77cce8b4.chunk.js",
+    "static/css/main.8028aef6.chunk.css",
+    "static/js/main.a8327a10.chunk.js"
+  ]
+}
